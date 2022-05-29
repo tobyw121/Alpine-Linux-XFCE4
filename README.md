@@ -1,5 +1,5 @@
 # alpine-linux-setup
-Alpine Linux Setup
+Alpine Linux XFCE4 Setup
 
 # Alpine Linux
 ## Base Installation
@@ -12,6 +12,6 @@ Alpine Linux Setup
 * login as `root`
 * `apk add git`
 * `git clone https://github.com/tobyw121/Alpine-Linux-XFCE4/`
-* * `chmod 777 -R Alpine-Linux-XFCE4/`
+* `chmod 777 -R Alpine-Linux-XFCE4/`
 * `cd Alpine-Linux-XFCE4/`
 * `./setup.sh`
