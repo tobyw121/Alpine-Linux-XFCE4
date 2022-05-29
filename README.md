@@ -11,20 +11,7 @@ Alpine Linux Setup
 ## Auto Personalization
 * login as `root`
 * `apk add git`
-* `git clone https://github.com/ibuetler/alpine-linux-setup`
-* `cd alpine-linux-setup`
+* `git clone https://github.com/tobyw121/Alpine-Linux-XFCE4/`
+* * `chmod -X -R Alpine-Linux-XFCE4/`
+* `cd Alpine-Linux-XFCE4/`
 * `./setup.sh`
-
-## Manual Personalization
-* login as `ibuetler`
-* `ssh-keygen`
-
-````
-eval `ssh-agent -s`
-ssh-add
-````
-
-## YouTube Video
-* https://youtu.be/X_T-cKum8dc
-
-
